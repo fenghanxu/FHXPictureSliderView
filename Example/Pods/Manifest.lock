@@ -1,0 +1,31 @@
+PODS:
+  - FHXColorAndFont (0.1.0):
+    - FHXKit
+  - FHXFoundation (0.1.6)
+  - FHXKit (0.1.3):
+    - FHXFoundation
+  - FHXPictureSliderView (0.1.0):
+    - FHXColorAndFont
+    - Kingfisher
+    - SnapKit
+  - Kingfisher (4.8.1)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - FHXPictureSliderView (from `../`)
+
+EXTERNAL SOURCES:
+  FHXPictureSliderView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXColorAndFont: 7fe0141b9d8a81e3a2a5e8f475596d436881f2b6
+  FHXFoundation: 2e258421df559b4b1cdef4e6f0abf4fb92102ffa
+  FHXKit: 74692b3434b72aa2bc1433a6b616011c2ffe4446
+  FHXPictureSliderView: 4e77e8fcf42956c5eae04330e01a99e4d38df465
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 821cf81cdc9a5ad5a0adf9e08aca24b87f3aa931
+
+COCOAPODS: 1.4.0

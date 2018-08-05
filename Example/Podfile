@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXPictureSliderView_Example' do
+  pod 'FHXPictureSliderView', :path => '../'
+
+  target 'FHXPictureSliderView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

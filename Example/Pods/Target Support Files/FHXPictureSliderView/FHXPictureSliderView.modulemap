@@ -1,0 +1,6 @@
+framework module FHXPictureSliderView {
+  umbrella header "FHXPictureSliderView-umbrella.h"
+
+  export *
+  module * { export * }
+}

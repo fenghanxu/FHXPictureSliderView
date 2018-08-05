@@ -1,0 +1,6 @@
+framework module Pods_FHXPictureSliderView_Tests {
+  umbrella header "Pods-FHXPictureSliderView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
